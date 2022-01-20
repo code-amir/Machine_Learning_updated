@@ -1,4 +1,4 @@
-# ML Projects(updated)
+# ML Projects and Concepts(updated)
 - ##  Topics
   - **Dimensionality reduction (PCA,TSNE,UMAP)**
   - **Backpropagation, GridSearchCV, Loss functions, Performance metrics**
