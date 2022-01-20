@@ -1,5 +1,5 @@
-# My Learnings(updated)
-- ## Notes on 
+# ML Projects(updated)
+- ##  Topics
   - **Dimensionality reduction (PCA,TSNE,UMAP)**
   - **Backpropagation, GridSearchCV, Loss functions, Performance metrics**
   - **Comparison of Machine Learning Models**
